@@ -1,6 +1,13 @@
 # planets
 
-My planets website with Vue/Vite implementation.
+My planets website with Vue/Vite implementation. Using three.js and it looks like this:
+
+https://github.com/user-attachments/assets/c71d7de3-12f7-44dc-a1d8-2f985ced00c0
+
+Also you can click on the buttons on the top left of the website, it will zoom into the planet and display some text and go back and stuff.
+
+https://github.com/user-attachments/assets/a6b9004a-8cb8-4033-bdf5-f8d0721bf87d
+
 
 ## Recommended IDE Setup
 
